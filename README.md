@@ -1,4 +1,4 @@
-# Next.js & NextUI Template
+# Form using a signature
 
 This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
 
@@ -11,22 +11,18 @@ This is a template for creating applications using Next.js 13 (app directory) an
 - [TypeScript](https://www.typescriptlang.org/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [next-themes](https://github.com/pacocoursey/next-themes)
-
+- [react-signature-pad-wrapper](https://github.com/michaeldzjap/react-signature-pad-wrapper)
 ## How to Use
-
-
-### Use the template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run the following command:
-
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
-```
 
 ### Install dependencies
 
 ```bash
 npm install
+```
+ or
+
+```bash
+pnpm install
 ```
 
 ### Run the development server

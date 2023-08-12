@@ -1,6 +1,6 @@
 # Form using a signature
 
-This is a template for creating applications using Next.js 13 (app directory) and NextUI (v2).
+This is a test using NextJs to create a form that takes a signature
 
 ## Technologies Used
 

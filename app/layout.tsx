@@ -49,10 +49,10 @@ export default function RootLayout({
 								isExternal
 								className="flex items-center gap-1 text-current"
 								href="https://github.com/CeeJay-RD"
-								title="nextui.org homepage"
+								title="Github Profile"
 							>
-								<span className="text-default-600">Powered by</span>
-								<p className="text-primary">CeeJayRD</p>
+								<span className="text-default-600">Developed by</span>
+								<p className="text-primary">Carlos Adames</p>
 							</Link>
 						</footer>
 					</div>
